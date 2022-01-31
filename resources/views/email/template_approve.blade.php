@@ -1,0 +1,2 @@
+<p>Assalamualaikum, <b>{{ $data['name'] }}</b> and we hope you are in good health.</p>
+<p>For your information, the booking you have made for the<b> {{ $data['eventName'] }}</b>event has been approved by us.</p>
